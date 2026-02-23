@@ -7,10 +7,11 @@ extend view entity ZRAP630C_ShopTP_05A with {
     }, { type: #FOR_ACTION, dataAction: 'ZZ_ProvideFeedback', label: 'Update feedback' }  ]
     @UI.identification: [ {
     position: 140 , 
-    label: 'Feedback'
+    label: 'Feedback 13'
     } ]
   
   
   
    Shop.zz_feedback_zaa as zz_feedback_zaa  
 }
+
